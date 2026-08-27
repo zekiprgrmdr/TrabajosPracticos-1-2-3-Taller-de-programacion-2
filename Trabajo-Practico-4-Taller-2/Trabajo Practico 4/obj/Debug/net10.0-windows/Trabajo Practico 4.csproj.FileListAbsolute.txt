@@ -1,0 +1,17 @@
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\bin\Debug\net10.0-windows\Trabajo Practico 4.exe
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\bin\Debug\net10.0-windows\Trabajo Practico 4.deps.json
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\bin\Debug\net10.0-windows\Trabajo Practico 4.runtimeconfig.json
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\bin\Debug\net10.0-windows\Trabajo Practico 4.dll
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\bin\Debug\net10.0-windows\Trabajo Practico 4.pdb
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo_Practico_4.Form1.resources
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo_Practico_4.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.AssemblyInfo.cs
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.dll
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\refint\Trabajo Practico 4.dll
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.pdb
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\Trabajo Practico 4.genruntimeconfig.cache
+C:\Users\Estudiante\Desktop\taller 2\Trabajo Practico 4\obj\Debug\net10.0-windows\ref\Trabajo Practico 4.dll
